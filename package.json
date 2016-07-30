@@ -1,0 +1,27 @@
+{
+  "name": "node-cli-demo",
+  "version": "1.0.0",
+  "description": "learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-marmot/node-cli-demo.git"
+  },
+  "keywords": [
+    "learn",
+    "demo"
+  ],
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-marmot/node-cli-demo/issues"
+  },
+  "homepage": "https://github.com/alex-marmot/node-cli-demo#readme",
+  "preferGlobal": "true",
+  "bin": {
+    "stuq": "index.js"
+  }
+}
