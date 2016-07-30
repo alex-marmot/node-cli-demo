@@ -22,6 +22,6 @@
   "homepage": "https://github.com/alex-marmot/node-cli-demo#readme",
   "preferGlobal": "true",
   "bin": {
-    "stuq": "index.js"
+    "stuq": "index`.js"
   }
 }
